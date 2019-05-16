@@ -1,0 +1,22 @@
+{
+    "name": "tholabs/creator-interfaces",
+    "description": "Interfaces for tholabs/creator",
+    "authors": [
+        {
+            "name": "David Beuchert",
+            "email": "mail@dbeuchert.com",
+            "homepage": "https://github.com/filecage"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/filecage/creator-interfaces",
+        "issues": "https://github.com/filecage/creator-interfaces/issues"
+    },
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Creator\\Interfaces\\": "src/"
+        }
+    }
+}
